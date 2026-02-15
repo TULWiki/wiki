@@ -1,7 +1,7 @@
 # Area Name
 
-| | |
-|-|-|
+| Item | Details |
+| - | - |
 | Author(s) | |
 | Alternate Name(s) | |
 | Leading To | |
@@ -9,8 +9,8 @@
 | Prerequisites | |
 
 #### Technical Info
-| | |
-|-|-|
+| Item | Details |
+| - | - |
 | Area ID | |
 | Course Number | |
 | Internal Name | |
