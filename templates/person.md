@@ -1,7 +1,7 @@
 # Main Alias
 
-|  |  |
-| - | - |
+| | |
+|-|-|
 | Also Known As | |
 | Role | |
 
